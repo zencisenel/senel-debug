@@ -1,5 +1,5 @@
 <div align="center">
-👋 Selam, Ben Şenel!
+👋 Selam, Ben Arif ŞENEL!
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=MTA%3ASA+ile+Geli%C5%9Fen+Lua+Geli%C5%9Ftiricisi;Game+Scripting+%C3%9Czerinde+%C3%87al%C4%B1%C5%9F%C4%B1yorum;DX+UI%2FUX+Tasarl%C4%B1yorum;Her+G%C3%BCn+Daha+%C4%B0yisini+%C3%96%C4%9Freniyorum" alt="Typing SVG">
