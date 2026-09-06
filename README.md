@@ -17,7 +17,7 @@ Bu projeler sayesinde Lua ve MTA:SA bilgimi ilerletiyor ve daha fazla deneyim ka
 
 ## Kullandığım Teknolojiler
 
-### Programming & Scripting
+#### Programming & Scripting
 
 <p align="center">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
@@ -25,7 +25,7 @@ Bu projeler sayesinde Lua ve MTA:SA bilgimi ilerletiyor ve daha fazla deneyim ka
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
 </p>
 
-### Game Development & Tools
+#### Game Development & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/MTA%3ASA-0080FF?style=for-the-badge" alt="MTA:SA">
